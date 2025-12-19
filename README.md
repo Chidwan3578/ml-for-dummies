@@ -1,82 +1,87 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://hollow-chocolate-xesvfueckw-juupa4cq38.edgeone.dev/" alt="ML for Dummies Banner" width="100%">
-</p>
 
-<h1 align="center">📚 Machine Learning Practice Hub</h1>
+<h1 align="center">📚 ML for Dummies</h1>
 
 <p align="center">
-  <em>A beginner-friendly collection of ML exercises, notes, and visual summaries.</em>
+  <em>A clean, beginner-friendly hub of ML practice notebooks, notes, and infographics.</em>
 </p>
 
 <!-- Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Learning-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Beginner-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Made%20With-Python-yellow?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Notebooks-Jupyter-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Level-Beginner-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge">
 </p>
 
 ---
 
 ## 📝 Description
-This repo is my personal **Machine Learning learning space**, where I store:
+This repository is my **personal machine learning study space**.  
+It includes:
 
-- 🧪 **Practice exercises** from a beginner-friendly Udemy ML course  
-- 🖼️ **NotebookLM-generated infographics** that simplify tough ideas  
-- 📘 **Notes and explanations** inspired by two books:  
+- 🧪 Practice exercises from a beginner-friendly Udemy ML course  
+- 🖼️ Infographics created using NotebookLM  
+- 📘 Simple explanations written from two books:  
   - *Introduction to Machine Learning*  
   - *Machine Learning for Absolute Beginners*
 
-Everything here is written in a simple, easy-to-understand way because I'm learning ML step by step and building my foundation slowly.
+Everything is written in a beginner-friendly style because I'm learning ML step-by-step.
 
 ---
 
 ## 📂 What’s Inside
+
 ### ✔️ Practice Notebooks  
-Hands-on exercises covering the basics of machine learning, including:
+Covers beginner-level ML topics like:
 
 - Data preprocessing  
 - Simple regression  
-- Basic classification models  
-- Clustering concepts  
-- Intro-level NLP tasks  
-- Model evaluation basics  
+- Basic classification  
+- Clustering fundamentals  
+- Intro NLP tasks  
+- Evaluation basics  
 
-*(No heavy advanced stuff — just beginner-friendly learning!)*
+*(No advanced deep learning or complex math — this repo focuses only on fundamentals.)*
+
+---
 
 ### ✔️ Visual Infographics  
-NotebookLM-generated images that summarise concepts in simple diagrams and flowcharts.
+NotebookLM-generated visuals that make concepts easier to digest.
+
+---
 
 ### ✔️ Learning Notes  
-Short explanations in my own words, written while understanding each topic.
+Short, simple explanations rewritten in my own words while studying.
 
 ---
 
-## 🎯 Goal of This Repository  
-To make machine learning feel less scary.  
+## 🎯 Purpose of This Repo
 This repo helps me:
 
-- Understand concepts clearly  
+- Build understanding slowly  
 - Practice ML workflows  
-- Build intuition slowly  
-- Revisit topics quickly through visuals  
+- Learn visually  
+- Keep everything structured and easy to revisit  
 
-If you’re also new to ML, you’ll find these notes and notebooks super helpful!
-
----
-
-
-## 💡 How to Use This Repo
-Just explore the folders — each notebook and image is named by topic.  
-You can follow the learning path in the order I practiced it.
+Perfect for beginners starting their ML journey.
 
 ---
 
-## 🤝 Contributions  
-Not needed, but if you have suggestions or resources, feel free to open an issue!
+## 📌 Future Plans
+- Better folder structure  
+- More visuals  
+- Simple ML mini-projects  
+- Additional book-based summaries  
 
 ---
 
-## ⭐ If you find this useful  
-Drop a star on the repo — it keeps me motivated to learn more! 🎉
+## 🤝 Contributions
+Suggestions are welcome — feel free to open an issue.
+
+---
+
+## ⭐ Support
+If this repo helps you, drop a star ⭐ It keeps me motivated to learn more.
+
+---
+
