@@ -1,10 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00c8,100:00c6ff&height=160&text=🦥ML%20%20For%20Dummies🦥&fontSize=40&fontColor=ffffff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00c8,100:00c6ff&height=160&text=🦥ML%20For%20Dummies🦥&fontSize=40&fontColor=ffffff&animation=twinkling"/>
 </div>
 
-
 <p align="center">
-  <em>A clean, beginner-friendly hub of ML practice notebooks, notes, and infographics.</em>
+  <em>A clean, beginner-friendly hub of ML practice notebooks, templates, notes, and infographics.</em>
 </p>
 
 <!-- Badges -->
@@ -17,75 +16,129 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ## 📝 Description
-This repository is my **personal machine learning study space**.  
-It includes:
+This repository is my **personal machine learning study space**.
 
-- 🧪 Practice exercises from a beginner-friendly Udemy ML course  
-- 🖼️ Infographics created using NotebookLM  
-- 📘 Simple explanations written from two books:  
-  - *Introduction to Machine Learning*  
-  - *Machine Learning for Absolute Beginners*
+It now includes:
 
-Everything is written in a beginner-friendly style because I'm learning ML step-by-step.
+- 🧪 Practice exercises from beginner-friendly ML courses  
+- 📘 Notes I’m writing while learning (NEW — now adding full notes section)  
+- 🧱 ML templates for quick model building (NEW)  
+- 🖼️ Visual infographics made using NotebookLM  
+- 🗂️ Clean folder structure for easy revision  
+
+Everything is written in an easy, beginner-first style.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ## 📂 What’s Inside
 
-### ✔️ Practice Notebooks  
-Covers beginner-level ML topics like:
+### ✔️ Practice Notebooks
+Covers beginner-level ML topics:
 
 - Data preprocessing  
-- Simple regression  
+- Exploratory data analysis  
+- Linear regression  
+- Logistic regression  
 - Basic classification  
 - Clustering fundamentals  
-- Intro NLP tasks  
+- Simple NLP tasks  
 - Evaluation basics  
 
-*(No advanced deep learning or complex math — this repo focuses only on fundamentals.)*
+*(Everything kept simple — no heavy math or deep learning yet.)*
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-### ✔️ Visual Infographics  
-NotebookLM-generated visuals that make concepts easier to digest.
+### ✔️ ML Templates (NEW)
+Reusable "**starter templates**" for quick ML projects.
+
+Current templates include:
+
+📌 **Linear Regression Template**  
+📌 **Data Preprocessing Template**  
+📌 **Train–Test Split Template**  
+📌 **Model Evaluation Template**  
+📌 **Categorical Encoding Template**  
+
+Each template includes:
+
+- Clean structure  
+- Explanations inside  
+- Editable cells  
+- Ready-to-run workflow  
+
+Perfect for practicing the same pipeline on multiple datasets.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-### ✔️ Learning Notes  
-Short, simple explanations rewritten in my own words while studying.
+### ✔️ Learning Notes (NEW)
+A new section dedicated to handwritten-style ML notes.
+
+Planned notes include:
+
+- Data Cleaning Basics  
+- Handling Missing Values  
+- Encoding Techniques  
+- Train/Test/Validation  
+- Linear Regression (Full Breakdown)  
+- Evaluation Metrics Explained  
+
+These notes are short, easy, and beginner-friendly — ideal for revision.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+### ✔️ Visual Infographics
+NotebookLM-generated visuals to make concepts easier to remember.
+
+Examples include:
+
+- Regression flow  
+- Normalization vs Standardization  
+- Types of ML  
+- Bias vs Variance  
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ## 🎯 Purpose of This Repo
 This repo helps me:
 
-- Build understanding slowly  
-- Practice ML workflows  
-- Learn visually  
-- Keep everything structured and easy to revisit  
+- Learn ML step-by-step  
+- Practice on real datasets  
+- Reuse templates for multiple models  
+- Keep all notes, experiments, and visuals organized  
+- Build confidence with hands-on learning  
 
-Perfect for beginners starting their ML journey.
+Ideal for absolute beginners trying to understand ML slowly.
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-## 📌 Future Plans
-- Better folder structure  
-- More visuals  
-- Simple ML mini-projects  
-- Additional book-based summaries  
+## 🔮 Future Plans
+- More ML templates  
+- More structured notes  
+- Better folder classification  
+- Mini ML projects:  
+  - House price regression  
+  - Simple classification tasks  
+  - Customer segmentation  
+- More infographics  
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ## 🤝 Contributions
-Suggestions are welcome — feel free to open an issue.
+Suggestions are welcome — feel free to open an issue or share ideas for templates/notes.
+
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
 ## ⭐ Support
-If this repo helps you, drop a star ⭐ It keeps me motivated to learn more.
+If this repo helps you, hit that **star** ⭐  
+It keeps me motivated to learn more every day.
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&animation=twinkling" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&animation=twinkling"/>
 </div>
