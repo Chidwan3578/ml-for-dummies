@@ -16,3 +16,7 @@ NOTEBOOK_DIR = PROJECT_ROOT / 'practiceExercises'
 ADS_BUDGET_PROFIT = DATASETS_DIR / 'ads_budget_profit.csv'
 
 HORSE_POWER = DATASETS_DIR / 'horse-power.csv'
+
+TEMP_POWER_USAGE = DATASETS_DIR / 'temp_power_usage.csv'
+
+POSITION_SALARIES = DATASETS_DIR / 'Position_Salaries.csv'
